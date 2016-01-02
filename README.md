@@ -1,2 +1,2 @@
 # maptraceroute
-Mapping a IP traceroute
+Perl script to map an IP traceroute
