@@ -4,6 +4,8 @@ Perl script to map an IP traceroute and saves it either as png graphic or gpx tr
 Command line options:
 -h | --help
 
+> print this help
+
 -t IP/hostname | --target=IP/hostname 
 
 > target host for trace; required option
